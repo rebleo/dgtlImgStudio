@@ -1,0 +1,15 @@
+body {
+  background-color:rgb(0,0,200);
+  color: rgb(243, 31, 243)
+}
+
+a {
+  color: yellow;
+  font-size: 65;
+  text-decoration: none;
+}
+
+a:hover {
+  font-size: 100;
+  color: rgb(0,200,0);
+}
