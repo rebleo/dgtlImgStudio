@@ -11,48 +11,49 @@ Week 1 - January 27
 
 
 #### Week 3 - February 10
- * Discuss PCD NYC
- * Schedule student research presentations
+* Discuss PCD NYC
+* The Ecstasy of Communication Discussion + Critique
+* Github Studio
 
-
-* Rebecca - [my great website](http://www.google.com)
-<a href="http://www.google.com">my great website</a>
 
 #### Week 4 - February 17
-* Schedule student research presentations
-* Txt + image
-* Code studio
+* Txt + <image>
+* Web Code studio
 
 
 #### Week 5 - February 24
-* Student research presentation 1 + 2
+* Web page discussion
+* Schedule student research presentations
 * Generative Art and Digital Imaging
-* DSLR Workshop
+* Intro to p5.js
+
 
 #### Week 6 - March 2
-* Student research presentation 3 + 4
-* Print Studio
+* Code Studio
+* Start thinking of ideas for project 1
 
 #### Week 7 - March 9
-Student research presentation 5 + 6
-* Large print critique
+* Code Critique
+* On your class website - create a webpage for your project 1 idea. Describe the project and add any images if applicable.
 
 
 { ———- Spring Break ———- }
 
 
 #### Week 8 - March 23
-* Student research presentation 7 + 8
+* Student research presentation 1 + 2
 * Project 1 Discussion
 
 #### Week 9 - March 30
+* Student research presentation 3 + 4
 * Project 1 Studio
 
 #### Week 10 - April 6
+* Student research presentation 5 + 6
 * Project 1 Critique
 
 #### Week 11 - April 13
-* TBD
+* Student research presentation 7 + 8
 
 #### Week 12 - April 20
 * TBD
