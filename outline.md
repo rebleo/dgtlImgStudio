@@ -1,33 +1,36 @@
 #### Course Outline (this will likely change):
-Week 1 - January 27 
+Week 1 - January 27
 * Intro to Course
 * View + discuss student’s previous work + possible directions
 * John Baldessari: Images, Performance + Systems
 
 
 #### Week 2 - February 3
-* Critique Baldessari Sketchs 
+* Critique Baldessari Sketchs
 * Github + Web Workshop
-  
+
 
 #### Week 3 - February 10
  * Discuss PCD NYC
  * Schedule student research presentations
- * Generative Art and Digital Imaging
 
+
+* Rebecca - [my great website](http://www.google.com)
+<a href="http://www.google.com">my great website</a>
 
 #### Week 4 - February 17
 * Schedule student research presentations
-* Imaging File Formats + Best Practices
-* DSLR Workshop
+* Txt + image
+* Code studio
 
 
 #### Week 5 - February 24
 * Student research presentation 1 + 2
-* To Be Determined
+* Generative Art and Digital Imaging
+* DSLR Workshop
 
 #### Week 6 - March 2
-* Student research presentation 3 + 4 
+* Student research presentation 3 + 4
 * Print Studio
 
 #### Week 7 - March 9
