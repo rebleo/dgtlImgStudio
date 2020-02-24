@@ -23,17 +23,18 @@ Week 1 - January 27
 
 #### Week 5 - February 24
 * Web page discussion
+* NetArt
 * Schedule student research presentations
-* Generative Art and Digital Imaging
 * Intro to p5.js
 
 
 #### Week 6 - March 2
+* Generative Art + Digital Imaging
 * Code Studio
 * Start thinking of ideas for project 1
 
 #### Week 7 - March 9
-* Code Critique
+* Web-based Project Critique
 * On your class website - create a webpage for your project 1 idea. Describe the project and add any images if applicable.
 
 
