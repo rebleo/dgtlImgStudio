@@ -42,19 +42,20 @@ Week 1 - January 27
 
 
 #### Week 8 - March 23
-* Student research presentation 1 + 2
+* Student research presentations - Shailee + Shi
 * Project 1 Discussion
 
 #### Week 9 - March 30
-* Student research presentation 3 + 4
+* Student research presentation - Amber + Sumin
 * Project 1 Studio
 
 #### Week 10 - April 6
-* Student research presentation 5 + 6
+* Student research presentation  - Mohit +  Nancy
 * Project 1 Critique
 
 #### Week 11 - April 13
-* Student research presentation 7 + 8
+* Student research presentations - Yiwei + Cara +
+Tangent
 
 #### Week 12 - April 20
 * TBD
