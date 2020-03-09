@@ -35,7 +35,8 @@ Week 1 - January 27
 
 #### Week 7 - March 9
 * Web-based Project Critique
-* On your class website - create a webpage for your project 1 idea. Describe the project and add any images if applicable.
+* Marshall McLuhan, the Medium is the Message
+* Project 1 proposals are due next class.
 
 
 { ———- Spring Break ———- }
