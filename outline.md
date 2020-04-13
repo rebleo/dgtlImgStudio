@@ -2,7 +2,7 @@
 Week 1 - January 27
 * Intro to Course
 * View + discuss student’s previous work + possible directions
-* John Baldessari: Images, Performance + Systems
+* [John Baldessari: Images, Performance + Systems](https://github.com/rebleo/dgtlImgStudio/blob/master/week01/week01.pdf)
 
 
 #### Week 2 - February 3
@@ -17,25 +17,24 @@ Week 1 - January 27
 
 
 #### Week 4 - February 17
-* Txt + <image>
+* [Txt + <image>](https://github.com/rebleo/dgtlImgStudio/blob/master/week04/week04.pdf)
 * Web Code studio
 
 
 #### Week 5 - February 24
 * Web page discussion
-* NetArt
+* [net.art](https://github.com/rebleo/dgtlImgStudio/blob/master/week05/week05.pdf)
 * Schedule student research presentations
 * Intro to p5.js
 
-
 #### Week 6 - March 2
-* Generative Art + Digital Imaging
+* [Material Logic of Digital Imaging](https://github.com/rebleo/dgtlImgStudio/blob/master/week06/week06.pdf)
 * Code Studio
 * Start thinking of ideas for project 1
 
 #### Week 7 - March 9
 * Web-based Project Critique
-* Marshall McLuhan, the Medium is the Message
+* [Marshall McLuhan, the Medium is the Message (+ Mobile)](https://github.com/rebleo/dgtlImgStudio/blob/master/week07/week07.pdf)
 * Project 1 proposals are due next class.
 
 
@@ -52,12 +51,12 @@ Week 1 - January 27
 
 #### Week 10 - April 6
 * Student research presentations - Shailee + Shi
-* Shooting videos, photos with a DSLR
+* [Shooting videos, photos with a DSLR](https://github.com/rebleo/dgtlImgStudio/blob/master/week10/week10.pdf)
 
 #### Week 11 - April 13
 * Rest of the semester planning meeting
 * Student research presentation - Amber 
-* [Networks, Information @ MoMa 1970 + objectlessness](https://github.com/rebleo/dgtlImgStudio/blob/master/week09/week11.pdf)
+* [Networks, Information @ MoMa 1970 + objectlessness](https://github.com/rebleo/dgtlImgStudio/blob/master/week11/week11.pdf)
 
 #### Week 12 - April 20
 * Student research presentation  - Sumin, Mohit +  Nancy
