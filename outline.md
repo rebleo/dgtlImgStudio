@@ -43,28 +43,41 @@ Week 1 - January 27
 
 
 #### Week 8 - March 23
-* Student research presentations - Shailee + Shi
-* Project 1 Discussion
+* Class Cancelled - Move to remote learning next week.
 
 #### Week 9 - March 30
-* Student research presentation - Amber + Sumin
-* Project 1 Studio
+* Catch up 
+* Discuss project 1
+* [Correspondence, Isolation, Platforms + Art](https://github.com/rebleo/dgtlImgStudio/blob/master/week09/week09.pdf) 
 
 #### Week 10 - April 6
-* Student research presentation  - Mohit +  Nancy
-* Project 1 Critique
+* Student research presentations - Shailee + Shi
+* Shooting videos, photos with a DSLR
 
 #### Week 11 - April 13
-* Student research presentations - Yiwei + Cara +
-Tangent
+* Rest of the semester planning meeting
+* Student research presentation - Amber 
+* [Networks, Information @ MoMa 1970 + objectlessness](https://github.com/rebleo/dgtlImgStudio/blob/master/week09/week11.pdf)
 
 #### Week 12 - April 20
-* TBD
+* Student research presentation  - Sumin, Mohit +  Nancy
+* Critiques:
+  * Nancy
+  * Tangent + Shi
+  * Cara
+  * maybe Mohit
 
 #### Week 13 - April 27
-* TBD
+* Student research presentations - Yiwei + Cara +
+Tangent
+* Critiques:
+  * Mohit?
+  * Shailee
+  * Yiwei
 
 #### Week 14 - May 4
+* Critiques:
+  * Amber
 * Final Project Studio
 
 #### Week 15 - May 11
